@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-We're BSC, we make shitty games for the lolz.
+We're BSC, we make shitty stuff for the lolz.
 
 Current developers:
 - [Ripley White](https://github.com/ripples1253)
